@@ -1,5 +1,5 @@
 {
-    "name" : rchatley-cosmos-apr16,
+    "name" : "rchatley-cosmos-apr16",
     "packaging" : {
         "status_page" : "/status",
         "application_port" : "8080",
